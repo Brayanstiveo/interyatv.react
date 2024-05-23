@@ -1,0 +1,20 @@
+.Home{
+    font-family: PoetsenOne-Regular-font;
+    line-height: 30px;
+    background-size: cover;
+    text-align: center;
+    text-shadow: 0.5px 0.5px 4px whitesmoke;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    margin: -54px;
+    
+}
+
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(../../images/donald-giannatti-Wj1D-qiOseE-unsplash.jpg);
+    background-size: cover;
+}
+
